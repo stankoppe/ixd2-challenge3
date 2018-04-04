@@ -1,21 +1,6 @@
-@media only screen and (min-device-width: 667px) and (max-device-width: 1024px) {
-	body {
-		max-width: 670px;
-		margin: 0 auto;
-	}
-}
-
-@media only screen and (min-device-width: 1024px) and (max-device-width: 1600px) {
-	body {
-		max-width: 870px;
-		margin: 0 auto;
-	}
-}
-
-@media only screen and (min-device-width: 1600px) and (max-device-width: 7000px) {
-	body {
-		max-width: 1270px;
-		margin: 0 auto;
+@media only screen and (min-device-width: 768px) and (max-device-width: 6000px) {
+	.content-container {
+		width: 50%;
 	}
 }
 
