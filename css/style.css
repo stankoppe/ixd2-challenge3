@@ -1,9 +1,12 @@
 @media only screen and (min-device-width: 768px) and (max-device-width: 6000px) {
 	.content-container {
-		width: 50%;
+		width: 50%!important;
+		margin: 0 auto;
+		border-right: 1px solid rgba(0,0,0,0.1);
+		border-left: 1px solid rgba(0,0,0,0.1);
+		border-bottom: 1px solid rgba(0,0,0,0.1);
 	}
 }
-
 * {
 	margin: 0;
 	padding: 0;
